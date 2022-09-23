@@ -20,7 +20,7 @@ const QUOTEBANK = [
         author: "Dr. Disrespect"
     },
     {
-        quote: "Don't you dare peak Johnny boy. Don't you ever dare peak in the Two Time's world. This is my videogame realm, this is my videogame domain.",
+        quote: "Don't you dare peak Johnny boy. Don't you ever dare peak in the Two Time's world. This is my video game realm, this is my video game domain.",
         author: "Dr. Disrespect"
     },
     {
